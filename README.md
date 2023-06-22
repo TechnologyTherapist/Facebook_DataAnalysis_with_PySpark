@@ -10,8 +10,10 @@ Prerequisites
 Installation
 1.	Clone the repository:
 git clone https://github.com/your-username/facebook-data-analysis.git
+
 2.	Install the required dependencies:
 pip install findspark
+
 3.	Download the Facebook dataset (pseudo_facebook.csv) and place it in the project directory.
 Usage
 1.	Import the required modules and initialize SparkSession.
@@ -42,16 +44,17 @@ The results of the data analysis tasks are displayed in the console output. The 
 •	Average friend count for individuals aged between 18 and 50.
 •	Average mobile likes and website likes based on gender for individuals aged between 18 and 50.
 •	Average friend count for each age group.
+
 The project also calculates the correlation between age, friend count, and likes received, providing insights into potential relationships between these variables.
+
 Contributing
 Contributions to this project are welcome. You can contribute by opening an issue to suggest improvements or submitting a pull request with new features or bug fixes.
+
 License
 This project is licensed under the MIT License.
-Acknowledgements
+
+Acknowledgments
 •	The Facebook dataset used in this project is provided by YourDataTeacher.
 •	The project is based on the PySpark library, developed by the Apache Spark community.
-
-![image](https://github.com/TechnologyTherapist/Facebook_DataAnalysis_with_PySpark/assets/59865773/e48a5fd9-c3cb-4693-a86f-5403cfdec263)
-
 
 
