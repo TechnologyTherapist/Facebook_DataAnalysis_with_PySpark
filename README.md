@@ -9,7 +9,7 @@ Prerequisites
 •	Jupyter Notebook (optional)
 Installation
 1.	Clone the repository:
-git clone https://github.com/your-username/facebook-data-analysis.git
+https://github.com/TechnologyTherapist/Facebook_DataAnalysis_with_PySpark.git
 
 2.	Install the required dependencies:
 pip install findspark
